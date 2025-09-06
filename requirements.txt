@@ -2,3 +2,4 @@ openai
 python-dotenv
 fastapi[standard]
 python-multipart
+uvicon[standard]
